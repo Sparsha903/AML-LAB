@@ -1,5 +1,5 @@
-mkdir datasets
-cp enjoysport.csv datasets/
-git add datasets/
-git commit -m "added datasets folder"
-git push
+sky,airTemp,humidity,wind,water,forecast,enjoySport
+sunny,warm,normal,strong,warm,same,yes
+sunny,warm,high,strong,warm,same,yes
+rainy,cold,high,strong,warm,change,no
+sunny,warm,high,strong,cool,change,yes
