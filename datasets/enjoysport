@@ -1,0 +1,5 @@
+mkdir datasets
+cp enjoysport.csv datasets/
+git add datasets/
+git commit -m "added datasets folder"
+git push
